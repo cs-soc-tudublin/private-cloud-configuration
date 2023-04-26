@@ -2,13 +2,13 @@
 
 The CS++ Private Cloud is an ongoing project to provide infrastructure for society members and other societies within the TUD society space.
 
-## What we will provide
+## What we will provide
 
 * A persistent linux environment for society members to work on personal projects and have easy access to development tools.
 * Provisioning infrastructure for compute and storage.
 * Hosting websites as a subdomain or through a personally funded custom domain.
 
-This repository will contain scripts, configuration and docs for the following purposes:
+## This repository will contain scripts, configuration and docs for the following purposes:
 
 * Bootstrapping fresh installs on compute servers.
 * Configuration for all clusters run on the server.
