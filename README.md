@@ -15,3 +15,12 @@ The CS++ Private Cloud is an ongoing project to provide infrastructure for socie
 * Onboarding new and current Sysadmins.
 * Outlining the design of the infrastructure for visibility and auditing.
 * Guides for members on how to leverage this infrastructure for their academic and personal work.
+
+## Instructions for setting up
+``` sh
+git clone https://github.com/cs-soc-tudublin/private-cloud-configuration
+cd private-cloud-configuration
+chmod +x bootstrap.sh
+./bootstrap.sh
+```
+
