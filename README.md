@@ -1,2 +1,7 @@
-# compute-server-configuration
-This repository will host all configuration used by the compute servers in the society.
+# Compute Server Configuration repo
+
+This repository will contain scripts, configuration and docs for the following purposes:
+* Bootstrapping fresh installs on compute servers.
+* Configuration for all clusters run on the server.
+* Onboarding new and current Sysadmins.
+* Onboarding new and current Cluster admins.
