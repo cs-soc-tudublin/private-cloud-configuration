@@ -18,6 +18,8 @@ The CS++ Private Cloud is an ongoing project to provide infrastructure for socie
 
 ## Instructions for setting up
 ``` sh
+#as root
+cd /root
 git clone https://github.com/cs-soc-tudublin/private-cloud-configuration
 cd private-cloud-configuration
 chmod +x bootstrap.sh
