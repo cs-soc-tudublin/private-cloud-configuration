@@ -1,2 +1,2 @@
-cp .vimrc ../.vimrc
-cp .bashrc ../.bashrc
+cp usr-config/.vimrc ../.vimrc
+cp usr-config/.bashrc ../.bashrc
